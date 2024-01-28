@@ -107,8 +107,8 @@ id: Madagascar
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Madagascar//
-markerFolder: ./Madagascar//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Madagascar] 
