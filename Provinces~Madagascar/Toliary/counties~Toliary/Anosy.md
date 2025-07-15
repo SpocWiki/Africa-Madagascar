@@ -40,11 +40,18 @@ markerFolder: ./Anosy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Anosy|Anosy]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Anosy.public|Anosy.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Anosy.internal|Anosy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Anosy.protect|Anosy.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Anosy.private|Anosy.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Anosy.personal|Anosy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Anosy.secret|Anosy.secret]] 
+
+### #is_/same_as :: [Anosy](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.md) 
+
+### #is_/same_as :: [Anosy.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.public.md) 
+
+### #is_/same_as :: [Anosy.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.internal.md) 
+
+### #is_/same_as :: [Anosy.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.protect.md) 
+
+### #is_/same_as :: [Anosy.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.private.md) 
+
+### #is_/same_as :: [Anosy.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.personal.md) 
+
+### #is_/same_as :: [Anosy.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Anosy.secret.md)
 

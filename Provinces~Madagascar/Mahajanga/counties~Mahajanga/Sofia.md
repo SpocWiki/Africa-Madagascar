@@ -40,11 +40,18 @@ markerFolder: ./Sofia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Sofia|Sofia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Sofia.public|Sofia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Sofia.internal|Sofia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Sofia.protect|Sofia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Sofia.private|Sofia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Sofia.personal|Sofia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Sofia.secret|Sofia.secret]] 
+
+### #is_/same_as :: [Sofia](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.md) 
+
+### #is_/same_as :: [Sofia.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.public.md) 
+
+### #is_/same_as :: [Sofia.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.internal.md) 
+
+### #is_/same_as :: [Sofia.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.protect.md) 
+
+### #is_/same_as :: [Sofia.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.private.md) 
+
+### #is_/same_as :: [Sofia.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.personal.md) 
+
+### #is_/same_as :: [Sofia.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Sofia.secret.md)
 

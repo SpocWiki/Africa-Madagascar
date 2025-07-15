@@ -40,11 +40,18 @@ markerFolder: ./Boeny/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Boeny|Boeny]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Boeny.public|Boeny.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Boeny.internal|Boeny.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Boeny.protect|Boeny.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Boeny.private|Boeny.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Boeny.personal|Boeny.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Boeny.secret|Boeny.secret]] 
+
+### #is_/same_as :: [Boeny](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.md) 
+
+### #is_/same_as :: [Boeny.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.public.md) 
+
+### #is_/same_as :: [Boeny.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.internal.md) 
+
+### #is_/same_as :: [Boeny.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.protect.md) 
+
+### #is_/same_as :: [Boeny.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.private.md) 
+
+### #is_/same_as :: [Boeny.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.personal.md) 
+
+### #is_/same_as :: [Boeny.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Boeny.secret.md)
 

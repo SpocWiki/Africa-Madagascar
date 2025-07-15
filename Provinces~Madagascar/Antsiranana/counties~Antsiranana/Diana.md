@@ -40,11 +40,18 @@ markerFolder: ./Diana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Diana|Diana]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Diana.public|Diana.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Diana.internal|Diana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Diana.protect|Diana.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Diana.private|Diana.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Diana.personal|Diana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Diana.secret|Diana.secret]] 
+
+### #is_/same_as :: [Diana](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.md) 
+
+### #is_/same_as :: [Diana.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.public.md) 
+
+### #is_/same_as :: [Diana.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.internal.md) 
+
+### #is_/same_as :: [Diana.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.protect.md) 
+
+### #is_/same_as :: [Diana.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.private.md) 
+
+### #is_/same_as :: [Diana.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.personal.md) 
+
+### #is_/same_as :: [Diana.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Diana.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Haute_Matsiatra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra|Haute_Matsiatra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.public|Haute_Matsiatra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.internal|Haute_Matsiatra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.protect|Haute_Matsiatra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.private|Haute_Matsiatra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.personal|Haute_Matsiatra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Haute_Matsiatra.secret|Haute_Matsiatra.secret]] 
+
+### #is_/same_as :: [Haute_Matsiatra](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.md) 
+
+### #is_/same_as :: [Haute_Matsiatra.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.public.md) 
+
+### #is_/same_as :: [Haute_Matsiatra.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.internal.md) 
+
+### #is_/same_as :: [Haute_Matsiatra.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.protect.md) 
+
+### #is_/same_as :: [Haute_Matsiatra.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.private.md) 
+
+### #is_/same_as :: [Haute_Matsiatra.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.personal.md) 
+
+### #is_/same_as :: [Haute_Matsiatra.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Haute_Matsiatra.secret.md)
 

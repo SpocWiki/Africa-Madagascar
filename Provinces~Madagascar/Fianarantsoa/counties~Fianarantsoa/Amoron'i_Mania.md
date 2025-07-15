@@ -40,11 +40,18 @@ markerFolder: ./Amoron'i_Mania/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania|Amoron'i_Mania]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania.public|Amoron'i_Mania.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania.internal|Amoron'i_Mania.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania.protect|Amoron'i_Mania.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania.private|Amoron'i_Mania.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania.personal|Amoron'i_Mania.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Amoron'i_Mania.secret|Amoron'i_Mania.secret]] 
+
+### #is_/same_as :: [Amoron'i_Mania](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.md) 
+
+### #is_/same_as :: [Amoron'i_Mania.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.public.md) 
+
+### #is_/same_as :: [Amoron'i_Mania.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.internal.md) 
+
+### #is_/same_as :: [Amoron'i_Mania.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.protect.md) 
+
+### #is_/same_as :: [Amoron'i_Mania.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.private.md) 
+
+### #is_/same_as :: [Amoron'i_Mania.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.personal.md) 
+
+### #is_/same_as :: [Amoron'i_Mania.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Amoron'i_Mania.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Analanjirofo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Analanjirofo|Analanjirofo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.public|Analanjirofo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.internal|Analanjirofo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.protect|Analanjirofo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.private|Analanjirofo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.personal|Analanjirofo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Analanjirofo.secret|Analanjirofo.secret]] 
+
+### #is_/same_as :: [Analanjirofo](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.md) 
+
+### #is_/same_as :: [Analanjirofo.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.public.md) 
+
+### #is_/same_as :: [Analanjirofo.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.internal.md) 
+
+### #is_/same_as :: [Analanjirofo.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.protect.md) 
+
+### #is_/same_as :: [Analanjirofo.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.private.md) 
+
+### #is_/same_as :: [Analanjirofo.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.personal.md) 
+
+### #is_/same_as :: [Analanjirofo.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Sava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Sava|Sava]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Sava.public|Sava.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Sava.internal|Sava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Sava.protect|Sava.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Sava.private|Sava.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Sava.personal|Sava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Sava.secret|Sava.secret]] 
+
+### #is_/same_as :: [Sava](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.md) 
+
+### #is_/same_as :: [Sava.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.public.md) 
+
+### #is_/same_as :: [Sava.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.internal.md) 
+
+### #is_/same_as :: [Sava.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.protect.md) 
+
+### #is_/same_as :: [Sava.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.private.md) 
+
+### #is_/same_as :: [Sava.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.personal.md) 
+
+### #is_/same_as :: [Sava.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antsiranana/counties~Antsiranana/Sava.secret.md)
 

@@ -130,10 +130,4 @@ Capital :: [[Antananarivo]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Madagascar|Madagascar]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]] 
+

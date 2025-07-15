@@ -40,11 +40,18 @@ markerFolder: ./Itasy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Itasy|Itasy]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Itasy.public|Itasy.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Itasy.internal|Itasy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Itasy.protect|Itasy.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Itasy.private|Itasy.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Itasy.personal|Itasy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Itasy.secret|Itasy.secret]] 
+
+### #is_/same_as :: [Itasy](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.md) 
+
+### #is_/same_as :: [Itasy.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.public.md) 
+
+### #is_/same_as :: [Itasy.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.internal.md) 
+
+### #is_/same_as :: [Itasy.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.protect.md) 
+
+### #is_/same_as :: [Itasy.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.private.md) 
+
+### #is_/same_as :: [Itasy.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.personal.md) 
+
+### #is_/same_as :: [Itasy.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.secret.md)
 

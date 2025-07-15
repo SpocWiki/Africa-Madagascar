@@ -40,11 +40,18 @@ markerFolder: ./Bongolava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Bongolava|Bongolava]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Bongolava.public|Bongolava.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Bongolava.internal|Bongolava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Bongolava.protect|Bongolava.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Bongolava.private|Bongolava.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Bongolava.personal|Bongolava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Bongolava.secret|Bongolava.secret]] 
+
+### #is_/same_as :: [Bongolava](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.md) 
+
+### #is_/same_as :: [Bongolava.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.public.md) 
+
+### #is_/same_as :: [Bongolava.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.internal.md) 
+
+### #is_/same_as :: [Bongolava.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.protect.md) 
+
+### #is_/same_as :: [Bongolava.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.private.md) 
+
+### #is_/same_as :: [Bongolava.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.personal.md) 
+
+### #is_/same_as :: [Bongolava.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.secret.md)
 

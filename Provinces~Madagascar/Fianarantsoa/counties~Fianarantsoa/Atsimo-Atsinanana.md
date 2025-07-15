@@ -40,11 +40,18 @@ markerFolder: ./Atsimo-Atsinanana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana|Atsimo-Atsinanana]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.public|Atsimo-Atsinanana.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.internal|Atsimo-Atsinanana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.protect|Atsimo-Atsinanana.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.private|Atsimo-Atsinanana.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.personal|Atsimo-Atsinanana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsimo-Atsinanana.secret|Atsimo-Atsinanana.secret]] 
+
+### #is_/same_as :: [Atsimo-Atsinanana](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.md) 
+
+### #is_/same_as :: [Atsimo-Atsinanana.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.public.md) 
+
+### #is_/same_as :: [Atsimo-Atsinanana.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.internal.md) 
+
+### #is_/same_as :: [Atsimo-Atsinanana.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.protect.md) 
+
+### #is_/same_as :: [Atsimo-Atsinanana.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.private.md) 
+
+### #is_/same_as :: [Atsimo-Atsinanana.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.personal.md) 
+
+### #is_/same_as :: [Atsimo-Atsinanana.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Atsimo-Atsinanana.secret.md)
 

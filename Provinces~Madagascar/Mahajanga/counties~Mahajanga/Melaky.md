@@ -40,11 +40,18 @@ markerFolder: ./Melaky/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Melaky|Melaky]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Melaky.public|Melaky.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Melaky.internal|Melaky.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Melaky.protect|Melaky.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Melaky.private|Melaky.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Melaky.personal|Melaky.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Melaky.secret|Melaky.secret]] 
+
+### #is_/same_as :: [Melaky](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.md) 
+
+### #is_/same_as :: [Melaky.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.public.md) 
+
+### #is_/same_as :: [Melaky.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.internal.md) 
+
+### #is_/same_as :: [Melaky.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.protect.md) 
+
+### #is_/same_as :: [Melaky.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.private.md) 
+
+### #is_/same_as :: [Melaky.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.personal.md) 
+
+### #is_/same_as :: [Melaky.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.secret.md)
 

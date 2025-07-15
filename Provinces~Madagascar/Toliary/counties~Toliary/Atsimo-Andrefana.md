@@ -40,11 +40,18 @@ markerFolder: ./Atsimo-Andrefana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana|Atsimo-Andrefana]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.public|Atsimo-Andrefana.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.internal|Atsimo-Andrefana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.protect|Atsimo-Andrefana.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.private|Atsimo-Andrefana.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.personal|Atsimo-Andrefana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Atsimo-Andrefana.secret|Atsimo-Andrefana.secret]] 
+
+### #is_/same_as :: [Atsimo-Andrefana](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.md) 
+
+### #is_/same_as :: [Atsimo-Andrefana.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.public.md) 
+
+### #is_/same_as :: [Atsimo-Andrefana.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.internal.md) 
+
+### #is_/same_as :: [Atsimo-Andrefana.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.protect.md) 
+
+### #is_/same_as :: [Atsimo-Andrefana.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.private.md) 
+
+### #is_/same_as :: [Atsimo-Andrefana.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.personal.md) 
+
+### #is_/same_as :: [Atsimo-Andrefana.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Atsimo-Andrefana.secret.md)
 

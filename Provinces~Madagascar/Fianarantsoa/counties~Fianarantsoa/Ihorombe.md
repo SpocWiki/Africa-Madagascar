@@ -40,11 +40,18 @@ markerFolder: ./Ihorombe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Ihorombe|Ihorombe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Ihorombe.public|Ihorombe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Ihorombe.internal|Ihorombe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Ihorombe.protect|Ihorombe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Ihorombe.private|Ihorombe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Ihorombe.personal|Ihorombe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Ihorombe.secret|Ihorombe.secret]] 
+
+### #is_/same_as :: [Ihorombe](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.md) 
+
+### #is_/same_as :: [Ihorombe.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.public.md) 
+
+### #is_/same_as :: [Ihorombe.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.internal.md) 
+
+### #is_/same_as :: [Ihorombe.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.protect.md) 
+
+### #is_/same_as :: [Ihorombe.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.private.md) 
+
+### #is_/same_as :: [Ihorombe.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.personal.md) 
+
+### #is_/same_as :: [Ihorombe.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Ihorombe.secret.md)
 

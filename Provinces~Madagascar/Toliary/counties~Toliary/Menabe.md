@@ -40,11 +40,18 @@ markerFolder: ./Menabe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Menabe|Menabe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Menabe.public|Menabe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Menabe.internal|Menabe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Menabe.protect|Menabe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Menabe.private|Menabe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Menabe.personal|Menabe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Menabe.secret|Menabe.secret]] 
+
+### #is_/same_as :: [Menabe](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.md) 
+
+### #is_/same_as :: [Menabe.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.public.md) 
+
+### #is_/same_as :: [Menabe.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.internal.md) 
+
+### #is_/same_as :: [Menabe.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.protect.md) 
+
+### #is_/same_as :: [Menabe.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.private.md) 
+
+### #is_/same_as :: [Menabe.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.personal.md) 
+
+### #is_/same_as :: [Menabe.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Menabe.secret.md)
 

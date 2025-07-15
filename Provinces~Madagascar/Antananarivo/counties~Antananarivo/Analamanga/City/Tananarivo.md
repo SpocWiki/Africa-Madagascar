@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-18.87,47.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/City/Tananarivo|Tananarivo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/City/Tananarivo.public|Tananarivo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Tananarivo.internal|Tananarivo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Tananarivo.protect|Tananarivo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/City/Tananarivo.private|Tananarivo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/City/Tananarivo.personal|Tananarivo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/City/Tananarivo.secret|Tananarivo.secret]] 
+
+### #is_/same_as :: [Tananarivo](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.md) 
+
+### #is_/same_as :: [Tananarivo.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.public.md) 
+
+### #is_/same_as :: [Tananarivo.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.internal.md) 
+
+### #is_/same_as :: [Tananarivo.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.protect.md) 
+
+### #is_/same_as :: [Tananarivo.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.private.md) 
+
+### #is_/same_as :: [Tananarivo.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.personal.md) 
+
+### #is_/same_as :: [Tananarivo.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Analamanga/City/Tananarivo.secret.md)
+

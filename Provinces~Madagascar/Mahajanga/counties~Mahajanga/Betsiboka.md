@@ -40,11 +40,18 @@ markerFolder: ./Betsiboka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Betsiboka|Betsiboka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Betsiboka.public|Betsiboka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Betsiboka.internal|Betsiboka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Betsiboka.protect|Betsiboka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Betsiboka.private|Betsiboka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Betsiboka.personal|Betsiboka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Betsiboka.secret|Betsiboka.secret]] 
+
+### #is_/same_as :: [Betsiboka](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.md) 
+
+### #is_/same_as :: [Betsiboka.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.public.md) 
+
+### #is_/same_as :: [Betsiboka.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.internal.md) 
+
+### #is_/same_as :: [Betsiboka.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.protect.md) 
+
+### #is_/same_as :: [Betsiboka.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.private.md) 
+
+### #is_/same_as :: [Betsiboka.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.personal.md) 
+
+### #is_/same_as :: [Betsiboka.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Betsiboka.secret.md)
 

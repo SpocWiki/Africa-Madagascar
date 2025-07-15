@@ -40,11 +40,18 @@ markerFolder: ./Vatovavy-Fitovinany/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany|Vatovavy-Fitovinany]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.public|Vatovavy-Fitovinany.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.internal|Vatovavy-Fitovinany.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.protect|Vatovavy-Fitovinany.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.private|Vatovavy-Fitovinany.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.personal|Vatovavy-Fitovinany.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Vatovavy-Fitovinany.secret|Vatovavy-Fitovinany.secret]] 
+
+### #is_/same_as :: [Vatovavy-Fitovinany](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.md) 
+
+### #is_/same_as :: [Vatovavy-Fitovinany.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.public.md) 
+
+### #is_/same_as :: [Vatovavy-Fitovinany.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.internal.md) 
+
+### #is_/same_as :: [Vatovavy-Fitovinany.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.protect.md) 
+
+### #is_/same_as :: [Vatovavy-Fitovinany.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.private.md) 
+
+### #is_/same_as :: [Vatovavy-Fitovinany.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.personal.md) 
+
+### #is_/same_as :: [Vatovavy-Fitovinany.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Fianarantsoa/counties~Fianarantsoa/Vatovavy-Fitovinany.secret.md)
 

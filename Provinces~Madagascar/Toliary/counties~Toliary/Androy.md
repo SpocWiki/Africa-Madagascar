@@ -40,11 +40,18 @@ markerFolder: ./Androy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Madagascar/Counties/Androy|Androy]] 
-- [[../../../../../../_public/geo/Continent/Africa/Madagascar/Counties/Androy.public|Androy.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Madagascar/Counties/Androy.internal|Androy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Madagascar/Counties/Androy.protect|Androy.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Madagascar/Counties/Androy.private|Androy.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Madagascar/Counties/Androy.personal|Androy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Madagascar/Counties/Androy.secret|Androy.secret]] 
+
+### #is_/same_as :: [Androy](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.md) 
+
+### #is_/same_as :: [Androy.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.public.md) 
+
+### #is_/same_as :: [Androy.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.internal.md) 
+
+### #is_/same_as :: [Androy.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.protect.md) 
+
+### #is_/same_as :: [Androy.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.private.md) 
+
+### #is_/same_as :: [Androy.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.personal.md) 
+
+### #is_/same_as :: [Androy.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.secret.md)
 
