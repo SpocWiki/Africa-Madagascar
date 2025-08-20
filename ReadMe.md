@@ -1,35 +1,36 @@
 ---
 location:
-- -18.8933
-- 47.5083
+  - -18.8933
+  - 47.5083
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26959
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Madagascar
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Madagascar
-- مدغشقر
-- 马达加斯加
-- Мадагаскар
-- the Republic of Madagascar
-- la República de Madagascar
+  - Madagascar
+  - مدغشقر
+  - 马达加斯加
+  - Мадагаскар
+  - the Republic of Madagascar
+  - la República de Madagascar
 Languages:
-- fr-MG
-- mg
+  - fr-MG
+  - mg
 ---
 
 
