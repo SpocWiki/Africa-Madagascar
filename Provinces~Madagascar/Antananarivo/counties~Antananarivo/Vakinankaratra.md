@@ -40,17 +40,17 @@ markerFolder: ./Vakinankaratra/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vakinankaratra](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra|Vakinankaratra]] 
 
-### #is_/same_as :: [Vakinankaratra.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.public|Vakinankaratra.public]] 
 
-### #is_/same_as :: [Vakinankaratra.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.internal|Vakinankaratra.internal]] 
 
-### #is_/same_as :: [Vakinankaratra.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.protect|Vakinankaratra.protect]] 
 
-### #is_/same_as :: [Vakinankaratra.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.private|Vakinankaratra.private]] 
 
-### #is_/same_as :: [Vakinankaratra.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.personal|Vakinankaratra.personal]] 
 
-### #is_/same_as :: [Vakinankaratra.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Vakinankaratra.secret|Vakinankaratra.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Melaky/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melaky](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky|Melaky]] 
 
-### #is_/same_as :: [Melaky.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.public|Melaky.public]] 
 
-### #is_/same_as :: [Melaky.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.internal|Melaky.internal]] 
 
-### #is_/same_as :: [Melaky.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.protect|Melaky.protect]] 
 
-### #is_/same_as :: [Melaky.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.private|Melaky.private]] 
 
-### #is_/same_as :: [Melaky.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.personal|Melaky.personal]] 
 
-### #is_/same_as :: [Melaky.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Mahajanga/counties~Mahajanga/Melaky.secret|Melaky.secret]] 
 

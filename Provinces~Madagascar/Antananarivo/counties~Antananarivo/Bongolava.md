@@ -40,17 +40,17 @@ markerFolder: ./Bongolava/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bongolava](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava|Bongolava]] 
 
-### #is_/same_as :: [Bongolava.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.public|Bongolava.public]] 
 
-### #is_/same_as :: [Bongolava.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.internal|Bongolava.internal]] 
 
-### #is_/same_as :: [Bongolava.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.protect|Bongolava.protect]] 
 
-### #is_/same_as :: [Bongolava.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.private|Bongolava.private]] 
 
-### #is_/same_as :: [Bongolava.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.personal|Bongolava.personal]] 
 
-### #is_/same_as :: [Bongolava.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Bongolava.secret|Bongolava.secret]] 
 

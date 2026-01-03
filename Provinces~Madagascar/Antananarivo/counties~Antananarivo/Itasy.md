@@ -40,17 +40,17 @@ markerFolder: ./Itasy/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Itasy](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy|Itasy]] 
 
-### #is_/same_as :: [Itasy.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.public|Itasy.public]] 
 
-### #is_/same_as :: [Itasy.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.internal|Itasy.internal]] 
 
-### #is_/same_as :: [Itasy.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.protect|Itasy.protect]] 
 
-### #is_/same_as :: [Itasy.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.private|Itasy.private]] 
 
-### #is_/same_as :: [Itasy.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.personal|Itasy.personal]] 
 
-### #is_/same_as :: [Itasy.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Antananarivo/counties~Antananarivo/Itasy.secret|Itasy.secret]] 
 

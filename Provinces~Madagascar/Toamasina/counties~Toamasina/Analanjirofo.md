@@ -40,17 +40,17 @@ markerFolder: ./Analanjirofo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Analanjirofo](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo|Analanjirofo]] 
 
-### #is_/same_as :: [Analanjirofo.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.public|Analanjirofo.public]] 
 
-### #is_/same_as :: [Analanjirofo.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.internal|Analanjirofo.internal]] 
 
-### #is_/same_as :: [Analanjirofo.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.protect|Analanjirofo.protect]] 
 
-### #is_/same_as :: [Analanjirofo.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.private|Analanjirofo.private]] 
 
-### #is_/same_as :: [Analanjirofo.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.personal|Analanjirofo.personal]] 
 
-### #is_/same_as :: [Analanjirofo.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Analanjirofo.secret|Analanjirofo.secret]] 
 

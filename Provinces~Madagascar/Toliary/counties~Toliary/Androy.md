@@ -40,17 +40,17 @@ markerFolder: ./Androy/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Androy](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy|Androy]] 
 
-### #is_/same_as :: [Androy.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.public|Androy.public]] 
 
-### #is_/same_as :: [Androy.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.internal|Androy.internal]] 
 
-### #is_/same_as :: [Androy.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.protect|Androy.protect]] 
 
-### #is_/same_as :: [Androy.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.private|Androy.private]] 
 
-### #is_/same_as :: [Androy.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.personal|Androy.personal]] 
 
-### #is_/same_as :: [Androy.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toliary/counties~Toliary/Androy.secret|Androy.secret]] 
 

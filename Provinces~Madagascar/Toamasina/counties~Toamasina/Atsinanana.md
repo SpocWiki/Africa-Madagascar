@@ -40,17 +40,17 @@ markerFolder: ./Atsinanana/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atsinanana](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana|Atsinanana]] 
 
-### #is_/same_as :: [Atsinanana.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.public|Atsinanana.public]] 
 
-### #is_/same_as :: [Atsinanana.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.internal|Atsinanana.internal]] 
 
-### #is_/same_as :: [Atsinanana.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.protect|Atsinanana.protect]] 
 
-### #is_/same_as :: [Atsinanana.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.private|Atsinanana.private]] 
 
-### #is_/same_as :: [Atsinanana.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.personal|Atsinanana.personal]] 
 
-### #is_/same_as :: [Atsinanana.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Atsinanana.secret|Atsinanana.secret]] 
 

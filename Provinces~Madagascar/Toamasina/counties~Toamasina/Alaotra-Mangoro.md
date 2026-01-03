@@ -40,17 +40,17 @@ markerFolder: ./Alaotra-Mangoro/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alaotra-Mangoro](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro|Alaotra-Mangoro]] 
 
-### #is_/same_as :: [Alaotra-Mangoro.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.public|Alaotra-Mangoro.public]] 
 
-### #is_/same_as :: [Alaotra-Mangoro.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.internal|Alaotra-Mangoro.internal]] 
 
-### #is_/same_as :: [Alaotra-Mangoro.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.protect|Alaotra-Mangoro.protect]] 
 
-### #is_/same_as :: [Alaotra-Mangoro.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.private|Alaotra-Mangoro.private]] 
 
-### #is_/same_as :: [Alaotra-Mangoro.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.personal|Alaotra-Mangoro.personal]] 
 
-### #is_/same_as :: [Alaotra-Mangoro.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Provinces~Madagascar/Toamasina/counties~Toamasina/Alaotra-Mangoro.secret|Alaotra-Mangoro.secret]] 
 

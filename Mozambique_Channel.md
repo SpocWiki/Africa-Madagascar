@@ -53,3 +53,20 @@ coordinate_location: Point(41.0 -18.0)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mozambique%20Channel) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel|Mozambique_Channel]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel.public|Mozambique_Channel.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel.internal|Mozambique_Channel.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel.protect|Mozambique_Channel.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel.private|Mozambique_Channel.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel.personal|Mozambique_Channel.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Madagascar/Mozambique_Channel.secret|Mozambique_Channel.secret]] 
+
