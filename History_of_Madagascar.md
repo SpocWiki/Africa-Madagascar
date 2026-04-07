@@ -2,10 +2,10 @@
 aliases:
   - History of Madagascar
 has_id_wikidata: Q769743
-subclass_of: "[[_Standards/WikiData/WD~history_of_Africa,149813]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Madagascar,1019]]"
-country: "[[_Standards/WikiData/WD~Madagascar,1019]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Africa,149813|WD~history_of_Africa,149813]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
+country: "[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
 Commons_category: History of Madagascar
 ---
 

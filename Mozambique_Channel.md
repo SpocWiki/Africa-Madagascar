@@ -6,27 +6,27 @@ aliases:
   - Canal de Moçambique
 has_id_wikidata: Q165100
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Mangoky_River,1288223]]"
-  - "[[_Standards/WikiData/WD~Tsiribihina_River,1419861]]"
-  - "[[_Standards/WikiData/WD~Pungwe_River,2116568]]"
-  - "[[_Standards/WikiData/WD~Onilahy_River,2465863]]"
-  - "[[_Standards/WikiData/WD~Manambaho_River,3285196]]"
-  - "[[_Standards/WikiData/WD~Messalo_River,4786451]]"
+  - "[[_Standards/WikiData/WD~Mangoky_River,1288223|WD~Mangoky_River,1288223]]"
+  - "[[_Standards/WikiData/WD~Tsiribihina_River,1419861|WD~Tsiribihina_River,1419861]]"
+  - "[[_Standards/WikiData/WD~Pungwe_River,2116568|WD~Pungwe_River,2116568]]"
+  - "[[_Standards/WikiData/WD~Onilahy_River,2465863|WD~Onilahy_River,2465863]]"
+  - "[[_Standards/WikiData/WD~Manambaho_River,3285196|WD~Manambaho_River,3285196]]"
+  - "[[_Standards/WikiData/WD~Messalo_River,4786451|WD~Messalo_River,4786451]]"
 country:
-  - "[[_Standards/WikiData/WD~Comoros,970]]"
-  - "[[_Standards/WikiData/WD~Madagascar,1019]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-part_of: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
+  - "[[_Standards/WikiData/WD~Comoros,970|WD~Comoros,970]]"
+  - "[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
+part_of: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
 elevation_above_sea_level: 0
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+instance_of: "[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]"
 vertical_depth: 3292
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mozambique%20Channel%20location%20map.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Mozambique%20in%20September%202002.jpg
