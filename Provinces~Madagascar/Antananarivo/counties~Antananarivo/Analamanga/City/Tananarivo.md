@@ -28,7 +28,7 @@ coordinates: [[Tananarivo]]
 markerFile: [[Tananarivo]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

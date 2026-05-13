@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Vatovavy-Fitovinany/
 markerFolder: ./Vatovavy-Fitovinany/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

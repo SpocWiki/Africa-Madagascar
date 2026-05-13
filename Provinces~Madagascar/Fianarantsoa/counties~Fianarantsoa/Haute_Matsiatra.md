@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Haute_Matsiatra/
 markerFolder: ./Haute_Matsiatra/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

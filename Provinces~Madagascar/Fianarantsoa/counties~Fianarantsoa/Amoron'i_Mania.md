@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Amoron'i_Mania/
 markerFolder: ./Amoron'i_Mania/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

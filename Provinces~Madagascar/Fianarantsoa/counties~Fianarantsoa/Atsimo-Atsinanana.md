@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Atsimo-Atsinanana/
 markerFolder: ./Atsimo-Atsinanana/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
